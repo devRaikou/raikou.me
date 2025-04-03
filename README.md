@@ -2,7 +2,7 @@
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.0-blueviolet.svg)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.0-38B2AC.svg)](https://tailwindcss.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-10.0-ff69b4.svg)](https://www.framer.com/motion/)
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-12.0-ff69b4.svg)](https://www.framer.com/motion/)
 
 ## English
 
